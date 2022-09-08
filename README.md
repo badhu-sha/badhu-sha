@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ibrahim Badhusha (@badhu-sha)
+- 👀 I’m interested in Data Analysis, Data Science
+- 🌱 I’m currently learning Data Analysis, Data Viz
+- 💞️ I’m looking to collaborate on Data Analysis projects
+- 📫 Please reach out to me (LinkedIn - https://www.linkedin.com/in/ibrahim-badhusha/, Email - ibrahimh2197@gmail.com)
