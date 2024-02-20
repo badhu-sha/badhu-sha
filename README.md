@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim Badhusha (@badhu-sha)
 - 👀 I’m interested in Devops & Cloud Technologies
-- 🌱 I’m currently learning Terrform
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Devops and Cloud projects
 - 📫 Please reach out to me (LinkedIn - https://www.linkedin.com/in/ibrahim-badhusha/, Email - ibrahimh2197@gmail.com)
